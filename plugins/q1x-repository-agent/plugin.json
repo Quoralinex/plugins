@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "q1x-repository-agent",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Portable Q1X repository delivery, governance, review and release skills backed by a governed MCP service.",
   "author": {"name": "Quoralinex", "url": "https://github.com/Quoralinex"},
   "homepage": "https://github.com/Quoralinex/plugins/tree/main/plugins/q1x-repository-agent",
