@@ -1,0 +1,24 @@
+{
+  "name": "q1x-repository-agent",
+  "version": "0.1.0",
+  "description": "Q1X governed repository delivery and review workflows.",
+  "author": {"name": "Quoralinex", "url": "https://github.com/Quoralinex"},
+  "homepage": "https://github.com/Quoralinex/plugins/tree/main/plugins/q1x-repository-agent",
+  "repository": "https://github.com/Quoralinex/plugins",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Q1X Repository Agent",
+    "shortDescription": "Governed repository delivery, review and release workflows",
+    "longDescription": "Portable Q1X repository skills with a governed MCP control plane for authority, continuity, review, CI and release operations.",
+    "developerName": "Quoralinex",
+    "category": "Developer Tools",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "websiteURL": "https://github.com/Quoralinex/plugins",
+    "defaultPrompt": [
+      "Inspect the current repository and continue the governed delivery task.",
+      "Check authority, repository state, CI and review evidence before changing or completing work."
+    ]
+  }
+}
