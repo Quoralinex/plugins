@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "q1x-agent-platform": {
+      "type": "streamable-http",
+      "url": "https://agents.q1x.xyz/mcp"
+    }
+  }
+}

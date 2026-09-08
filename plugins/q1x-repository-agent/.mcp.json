@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "q1x-agent-platform": {
+      "type": "streamable-http",
+      "url": "https://agents.q1x.xyz/mcp"
+    }
+  }
+}
